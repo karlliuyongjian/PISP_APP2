@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jabil.quote</string>
+				<string>com.jabil.pisp</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Quote</string>
+				<string>Pisp</string>
 			</dict>
 		</dict>
 	</array>
