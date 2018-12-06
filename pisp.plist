@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cnwxig0spp01.corp.jabil.org//production/quotev3/files/pispapp/pisp.ipa</string>
+					<string>http://cnctug0pdmsdb01.corp.jabil.org/PIS_APP/PIS_App.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://cnwxig0spp01.corp.jabil.org//production/quotev3/files/pispapp/icon_1.png</string>
+					<string>http://cnctug0pdmsdb01.corp.jabil.org/PIS_APP_TV/icon_1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://cnwxig0spp01.corp.jabil.org//production/quotev3/files/pispapp/icon_1.png</string>
+					<string>http://cnctug0pdmsdb01.corp.jabil.org/PIS_APP_TV/icon_1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jabil.pisp</string>
+				<string>com.jabil.pis</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Pis</string>
+				<string>PIS</string>
 			</dict>
 		</dict>
 	</array>
